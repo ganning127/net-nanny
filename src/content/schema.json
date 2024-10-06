@@ -1,0 +1,12 @@
+[
+    {
+        "querySelector": "###",
+        "reason": "###",
+        "dangerLevel": "###"
+    },
+    {
+        "querySelector": "###",
+        "reason": "###",
+        "dangerLevel": "###"
+    }
+]
