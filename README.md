@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+![1](https://github.com/user-attachments/assets/7d199061-4bad-48ca-b315-5421263accd9)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![2](https://github.com/user-attachments/assets/fb5e6df6-3013-4d29-a639-a34acaa9383a)
 
-## Available Scripts
+## Inspiration
+Net Nanny was inspired by the need for a safer online space for children. With the increasing amount of harmful content on the internet, we wanted to create a solution that empowers parents to protect their kids while allowing them to explore and learn.
 
-In the project directory, you can run:
+## What it does
+Net Nanny is a Chrome extension that blocks harmful messages and images during kids' online browsing. It filters inappropriate content in real-time.
 
-### `npm start`
+## Challenges we ran into
+We encountered some challenges while utilizing OpenAI's API, which required us to troubleshoot various integration and performance issues.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Accomplishments that we're proud of
+We’re proud of having developed a reliable and efficient filtering system in a remarkably short timeframe, demonstrating our team’s dedication and expertise.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## What we learned
+We learned the importance of user feedback in refining our product. Engaging with parents helped us understand their needs and concerns, leading to valuable enhancements in our extension.
 
-### `npm test`
+## What's next for Net Nanny
+In the future, we will implement several key features to enhance Net Nanny's effectiveness and user experience. We plan to introduce a parental approval system, allowing parents to approve or deny access to potentially harmful content, which will give them greater control over their child's online experience. Additionally, we aim to launch weekly reports that provide parents with a detailed overview of their child's browsing history, offering insights into their online activities and fostering discussions about internet safety. Furthermore, we are excited to explore partnerships with schools to integrate Net Nanny on school-issued laptops and tablets, ensuring a safer online environment for students during school hours. These improvements will empower parents and create a more secure digital space for children to explore.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
